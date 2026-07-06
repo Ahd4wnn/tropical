@@ -1,0 +1,11 @@
+node_modules/
+dist/
+scripts/*.png
+
+# logs
+npm-debug.log*
+*.log
+
+# editor / os
+.DS_Store
+Thumbs.db
